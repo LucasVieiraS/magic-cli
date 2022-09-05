@@ -3,6 +3,8 @@ NodeJS built CLI, allows to spell check in 14 languages, get Coleman-Liau Index 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+![Interface](preview/interface.jpg)
+
 # Installing
  - Install dependencies:
   ```pwsh
@@ -15,7 +17,23 @@ NodeJS built CLI, allows to spell check in 14 languages, get Coleman-Liau Index 
     node index.js
   ```
 
-# Interface
+# Interface Preview
+- Coleman-Liau Index
+
+![Coleman-Liau Index](preview/colemandemo.jpg)
+
+- Spell Checker
+
+![Spell Demo 1](preview/spelldemo.jpg)
+
+![Spell Demo 2](preview/spelldemo2.jpg)
+
+![Spell Demo 3](preview/spelldemo3.jpg)
+
+- Pyramid Builder
+
+![Pyramid Demo](preview/pyramiddemo.jpg)
+
 
 # Libraries
  - [figlet](https://www.npmjs.com/package/figlet)
