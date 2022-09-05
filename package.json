@@ -1,0 +1,30 @@
+{
+  "name": "magic-cli",
+  "version": "1.0.0",
+  "description": "NodeJS built cli tool with customization options",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasVieiraS/magic-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasVieiraS/magic-cli/issues"
+  },
+  "homepage": "https://github.com/LucasVieiraS/magic-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.1.1",
+    "nanospinner": "^1.1.0",
+    "simple-spellchecker": "^1.0.2"
+  }
+}
