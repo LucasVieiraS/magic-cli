@@ -1,5 +1,5 @@
 # Magic CLI 🎩🐇
-NodeJS built CLI, allows to spell check in 14 languages, get Coleman-Liau Index and building hash Pyramids
+NodeJS built CLI, allows to spell check in 14 languages, get Coleman-Liau Index and build hash Pyramids
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
